@@ -1,3 +1,6 @@
+[Live hosted model link:](https://ayushsan1.github.io/Apartment-rent-predictor/)
+
+
 apartment-rent-predictor/
 ├── ml-based-model.ipynb              # EDA + model training notebook
 ├── apartment_rent_data.csv           # Dataset
