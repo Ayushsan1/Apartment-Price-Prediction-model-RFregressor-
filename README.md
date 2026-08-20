@@ -1,4 +1,4 @@
-[Live hosted model link:](https://ayushsan1.github.io/Apartment-rent-predictor/)
+[Live hosted model link - Click here](https://ayushsan1.github.io/Apartment-rent-predictor/)
 
 
 apartment-rent-predictor/
